@@ -76,6 +76,7 @@ npm i --save react-native-vector-icons
 # link
 react-native link react-native-vector-icons
 ```
+running "pod install" within the ios directory will fully handle the react-native-vector-icons library.
 
 _If you have any issues installing react-native-vector-icons, check out their
 installation guide
